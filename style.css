@@ -1,0 +1,96 @@
+body,html{
+    width: 100%;
+    height: 100%;
+    position: relative;
+}
+
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+.asly{
+    position: absolute;
+    height: 25rem;
+    width: 25rem;
+    margin-left: 450px;
+    margin-top: 150px;
+    border: 1px solid;
+    border-radius: 5px;
+    border-color: rgba(15, 1, 1, 0.144);
+}
+
+.img{
+    position: absolute;
+    margin-top: 20px;
+    margin-left: 125px;
+    height: 60px;
+    width: 150px;
+}
+
+.boly{
+    position: absolute;
+    margin-left: 250px;
+    margin-top: 100px;
+}
+
+.one{
+    position: absolute;
+    margin-top: 160px;
+    margin-left: 333px;
+    color: gray;
+}
+
+.tow{
+    position: absolute;
+    margin-top: 185px;
+    margin-left: 140px;
+    color: gray;
+}
+
+.mwe{
+    position: absolute;
+    height: 3rem;
+    width: 21rem;
+    margin-top: 210px;
+    margin-left: 30px;
+    border-radius: 8px;
+    border-color: gray;
+    border: 1px solid;
+    padding: 10px;
+}
+
+.btn{
+    position: fixed;
+    height: 3rem;
+    width: 21rem;
+    margin-left: 30px;
+    color: aliceblue;
+    background-color: red;
+    margin-top: 300px;
+    border-color: transparent;
+    border-radius: 8px;
+}
+
+.lasto{
+    position: absolute;
+    margin-top: 360px;
+    margin-left: 40px;
+    color: rgb(58, 57, 57);
+}
+
+.ab{
+    text-decoration-line: none;
+}
+
+.ac{
+    text-decoration-line: none;
+}
+
+.error{
+    position: absolute;
+    margin-top: 265px;
+    margin-left: 210px;
+    color: red;
+}
